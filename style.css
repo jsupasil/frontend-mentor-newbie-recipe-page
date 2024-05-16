@@ -77,8 +77,9 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 8px;
-  list-style-position: inside;
-  padding-left: 8px;
+  list-style-position: outside;
+  padding-left: 24px;
+
 }
 
 p,
@@ -91,14 +92,18 @@ li {
   color: var(--wenge-brown);
 }
 
+
 li::marker {
   color: var(--nutmeg);
   font-weight: 700;
 }
 
 li p {
-  display: inline;
   padding-left: 16px;
+}
+
+li p::first-line{
+  ma
 }
 
 h3 {
@@ -141,9 +146,10 @@ h2 {
   padding: 0px 32px 0px 32px;
 }
 
-.nutrition-name {
+.nutrition-name{
   width: 50%;
 }
+
 
 .nutrition-amount {
   font-weight: 700;
