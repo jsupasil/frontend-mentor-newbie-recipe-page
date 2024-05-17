@@ -1,6 +1,6 @@
-# Frontend Mentor - Blog preview card solution
+# Frontend Mentor - Recipe page solution
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -23,8 +23,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/jsupasil/frontend-mentor-newbie-social-links-profile)
-- Live Site URL: [Vercel](https://frontend-mentor-newbie-social-links-profile.vercel.app/)
+- Solution URL: [GitHub](https://github.com/jsupasil/frontend-mentor-newbie-recipe-page)
+- Live Site URL: [Vercel](https://frontend-mentor-newbie-recipe-page.vercel.app/)
 
 ## My process
 
@@ -34,22 +34,21 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- Responsive CSS style
+- Ordered and Unordered list
 
 ### What I learned
 
-I learned how to design flex box and responsive design from this project.
+I learned how to align bullet and marker of ordered and unordered list.
 
 ### Continued development
 
-It could add hyperlink to other platform.
+There is nothing need to improve yet.
 
 ### Useful resources
 
-- [CSS Responsive Web Design by W3 school](https://www.w3schools.com/css/css_rwd_intro.asp) - This is good introduction guidance for anyone who want to start practicing responsive design.
+- [CSS ::marker Selector by W3 school](https://www.w3schools.com/cssref/sel_marker.php) - This help me to edit color of marker in item list.
 
-- [CSS Variables by W3 school](https://www.w3schools.com/css/css3_variables.asp) - This is not necessary to complete a project but it is greatly helpful to shorten working time. This tool is CSS variable which will collect CSS value to varable which can be name short or easier reading. If some values were repetitive and hard to read such as hex code, CSS variable might be an answer.
+- [CSS List by W3 school](https://www.w3schools.com/css/css_list.asp) - This also help me to understand more about CSS list.
 
 ## Author
 
