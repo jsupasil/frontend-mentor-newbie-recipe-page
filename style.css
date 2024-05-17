@@ -151,6 +151,10 @@ h2 {
   width: 50%;
 }
 
+hr {
+  border: 1px solid var(--light-grey);
+}
+
 /* Responsive Design */
 @media only screen and (max-width: 600px) {
   main {
