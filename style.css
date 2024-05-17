@@ -79,7 +79,6 @@ ol {
   gap: 8px;
   list-style-position: outside;
   padding-left: 24px;
-
 }
 
 p,
@@ -92,7 +91,6 @@ li {
   color: var(--wenge-brown);
 }
 
-
 li::marker {
   color: var(--nutmeg);
   font-weight: 700;
@@ -100,10 +98,6 @@ li::marker {
 
 li p {
   padding-left: 16px;
-}
-
-li p::first-line{
-  ma
 }
 
 h3 {
@@ -146,10 +140,9 @@ h2 {
   padding: 0px 32px 0px 32px;
 }
 
-.nutrition-name{
+.nutrition-name {
   width: 50%;
 }
-
 
 .nutrition-amount {
   font-weight: 700;
@@ -158,46 +151,42 @@ h2 {
   width: 50%;
 }
 
-
 /* Responsive Design */
-@media only screen and (max-width:600px){
-  main{
+@media only screen and (max-width: 600px) {
+  main {
     padding: 0px;
   }
-  .card{
+  .card {
     padding: 0px;
     width: 100%;
     gap: 0px;
     border-radius: 0px;
   }
 
-  .top-image{
+  .top-image {
     border-radius: 0px;
     width: 100%;
     height: 171px;
   }
 
-  .context{
+  .context {
     padding: 40px 32px;
     gap: 32px;
   }
 
-  h1{
+  h1 {
     font-size: 36px;
     line-height: 36px;
     min-width: 311px;
   }
 
-
-  .preparation{
+  .preparation {
     padding: 24px;
   }
 
-
-  .h3{
+  .h3 {
     margin-bottom: 16px;
   }
-
 }
 
 .attribution {
